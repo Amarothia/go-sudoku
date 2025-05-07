@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/eliben/go-sudoku"
+	"github.com/Amarothia/go-sudoku"
 )
 
 // Note: trying to generate difficult boards with low hintcount may take a long

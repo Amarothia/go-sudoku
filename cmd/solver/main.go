@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/eliben/go-sudoku"
+	"github.com/Amarothia/go-sudoku"
 )
 
 var statsFlag = flag.Bool("stats", false, "enable stats for solving")

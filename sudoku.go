@@ -8,7 +8,7 @@ import (
 
 	"slices"
 
-	"github.com/eliben/go-sudoku/svg"
+	"github.com/Amarothia/go-sudoku/svg"
 )
 
 // Index represents a square on the Sudoku board; it's a number in the inclusive

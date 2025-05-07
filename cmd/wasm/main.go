@@ -8,7 +8,7 @@ import (
 	"log"
 	"syscall/js"
 
-	"github.com/eliben/go-sudoku"
+	"github.com/Amarothia/go-sudoku"
 )
 
 func main() {
